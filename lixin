@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的个人网站</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #35424a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的网站</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>关于我</h2>
+            <p>这里是自我介绍内容...</p>
+        </section>
+        
+        <section>
+            <h2>我的项目</h2>
+            <ul>
+                <li>项目1</li>
+                <li>项目2</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>© 2023 我的网站. 保留所有权利.</p>
+    </footer>
+</body>
+</html>
